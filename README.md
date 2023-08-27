@@ -28,6 +28,7 @@ URLS_TO_IPS
 <img src="https://github.com/qwe1433223/FAST-GO/blob/main/img/image-20230826214018078.png" width="210px">
 
 > 将FOFA导出的资产（csv格式的）放到这个项目内，导出的字段要包含：link
+> 创建一个OneForAll目标界定.txt 文件，界定子域名爆破目标
 
 <img src="https://github.com/qwe1433223/FAST-GO/blob/main/img/image-20230826214211393.png" width="210px">
 
