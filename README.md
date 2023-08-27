@@ -25,11 +25,11 @@ URLS_TO_IPS
 
 ### 1. 在工具运行目录创建一个项目文件夹
 
-![image-20230826214018078](C:\Users\run\AppData\Roaming\Typora\typora-user-images\image-20230826214018078.png)
+![image-20230826214018078](img\image-20230826214018078.png)
 
 > 将FOFA导出的资产（csv格式的）放到这个项目内，导出的字段要包含：link
 
-![image-20230826214211393](C:\Users\run\AppData\Roaming\Typora\typora-user-images\image-20230826214211393.png)
+![image-20230826214211393](img\image-20230826214211393.png)
 
 ### 2. PowerShell环境下运行 start.ps1
 
@@ -41,10 +41,10 @@ URLS_TO_IPS
 
 ### 3.运行结束的样子，最后不建议对一大堆403资产进行ByPass
 
-![image-20230826215225068](C:\Users\run\AppData\Roaming\Typora\typora-user-images\image-20230826215225068.png)
+![image-20230826215225068](img\image-20230826215225068.png)
 
 ### 4.运行结果
 
 > 包括各种状态的web，IPS，存活报告，以及去重的报告，后续进行SRC挖掘选择单独开发资产.txt里的目标进行测试就好，项目名.txt内是所有资产（未做存活扫描及去重），200.txt是状态码200的资产
 
-![image-20230826215547561](C:\Users\run\AppData\Roaming\Typora\typora-user-images\image-20230826215547561.png)
+![image-20230826215547561](img\image-20230826215547561.png)
