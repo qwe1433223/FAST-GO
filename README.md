@@ -37,7 +37,6 @@ URLS_TO_IPS
 >
 > 第二个可选参数选0就好，不用选1 
 
-QQ录屏20230826214941.gif
 <img src="https://github.com/qwe1433223/FAST-GO/blob/main/img/QQ录屏20230826214941.gif" width="210px">
 
 ### 3.运行结束的样子，最后不建议对一大堆403资产进行ByPass
