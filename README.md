@@ -25,11 +25,11 @@ URLS_TO_IPS
 
 ### 1. 在工具运行目录创建一个项目文件夹
 
-![image-20230826214018078](img\image-20230826214018078.png)
+<img src="https://github.com/qwe1433223/FAST-GO/blob/main/img/image-20230826214018078.png" width="210px">
 
 > 将FOFA导出的资产（csv格式的）放到这个项目内，导出的字段要包含：link
 
-![image-20230826214211393](img\image-20230826214211393.png)
+<img src="https://github.com/qwe1433223/FAST-GO/blob/main/img/image-20230826214211393.png" width="210px">
 
 ### 2. PowerShell环境下运行 start.ps1
 
@@ -37,14 +37,15 @@ URLS_TO_IPS
 >
 > 第二个可选参数选0就好，不用选1 
 
-![](C:\Users\run\Downloads\QQ录屏20230826214941.gif)
+QQ录屏20230826214941.gif
+<img src="https://github.com/qwe1433223/FAST-GO/blob/main/img/QQ录屏20230826214941.gif" width="210px">
 
 ### 3.运行结束的样子，最后不建议对一大堆403资产进行ByPass
 
-![image-20230826215225068](img\image-20230826215225068.png)
+<img src="https://github.com/qwe1433223/FAST-GO/blob/main/img/image-20230826215225068.png" width="210px">
 
 ### 4.运行结果
 
 > 包括各种状态的web，IPS，存活报告，以及去重的报告，后续进行SRC挖掘选择单独开发资产.txt里的目标进行测试就好，项目名.txt内是所有资产（未做存活扫描及去重），200.txt是状态码200的资产
 
-![image-20230826215547561](img\image-20230826215547561.png)
+<img src="https://github.com/qwe1433223/FAST-GO/blob/main/img/image-20230826215547561.png" width="210px">
