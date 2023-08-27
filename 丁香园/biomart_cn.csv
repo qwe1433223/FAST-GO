@@ -1,0 +1,682 @@
+﻿city,host,port,domain,country,as_organization,ip,protocol,title,link
+,https://huayan1688.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉华研生物科技有限公司_商铺首页_丁香通,https://huayan1688.biomart.cn
+,https://vicbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,维百奥（北京）生物科技有限公司_商铺首页_丁香通,https://vicbio.biomart.cn
+,https://shanghaihewu.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海禾午生物科技有限公司 - 公司主页 - 丁香通,https://shanghaihewu.biomart.cn
+,https://helixgen.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州好芝生物科技有限公司_商铺首页_丁香通,https://helixgen.biomart.cn
+,https://standardbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,思百拓（上海）仪器科技有限公司 - 公司主页 - 丁香通,https://standardbio.biomart.cn
+,https://monadbiotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,莫纳（苏州）生物科技有限公司_商铺首页_丁香通,https://monadbiotech.biomart.cn
+,https://thermo.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,赛默飞色谱质谱_商铺首页_丁香通,https://thermo.biomart.cn
+,https://lablead.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京兰博利德商贸有限公司_商铺首页_丁香通,https://lablead.biomart.cn
+,https://biotechwell.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海威奥生物科技有限公司_商铺首页_丁香通,https://biotechwell.biomart.cn
+,https://niuqihealth.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,纽祺（上海）健康科技有限公司_商铺首页_丁香通,https://niuqihealth.biomart.cn
+,https://mxbioscience.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海冯莱生物科技有限公司_商铺首页_丁香通,https://mxbioscience.biomart.cn
+,https://elabscience.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉伊莱瑞特生物科技股份有限公司_商铺首页_丁香通,https://elabscience.biomart.cn
+,https://shijihaocai.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海益启生物科技有限公司_商铺首页_丁香通,https://shijihaocai.biomart.cn
+,https://xinlianopto.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京心联光电科技有限公司_商铺首页_丁香通,https://xinlianopto.biomart.cn
+,https://cellapybio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京赛贝生物技术有限公司_商铺首页_丁香通,https://cellapybio.biomart.cn
+,https://genomeditech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,吉满生物科技(上海)有限公司_商铺首页_丁香通,https://genomeditech.biomart.cn
+,https://xuankebio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海晅科生物科技有限公司_商铺首页_丁香通,https://xuankebio.biomart.cn
+,https://wegene-china.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海伟进生物科技有限公司 - 公司主页 - 丁香通,https://wegene-china.biomart.cn
+,https://perimedchina.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,瑞典帕瑞医学（中国）公司 - 公司主页 - 丁香通,https://perimedchina.biomart.cn
+,https://colortechbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,彩科（苏州）生物科技有限公司_商铺首页_丁香通,https://colortechbio.biomart.cn
+,https://bestsciences.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京佰司特贸易有限责任公司_商铺首页_丁香通,https://bestsciences.biomart.cn
+,https://zenbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,成都正能生物技术有限责任公司_商铺首页_丁香通,https://zenbio.biomart.cn
+,https://corning.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,康宁生命科学 (吴江) 有限公司_商铺首页_丁香通,https://corning.biomart.cn
+,https://leadartech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,宁波礼达先导生物技术有限公司_商铺首页_丁香通,https://leadartech.biomart.cn
+,https://origenechina.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,无锡傲锐东源生物有限公司_商铺首页_丁香通,https://origenechina.biomart.cn
+,https://seqhealth.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉康测科技有限公司_商铺首页_丁香通,https://seqhealth.biomart.cn
+,https://hannuoyiqi.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海达洛科学仪器有限公司_商铺首页_丁香通,https://hannuoyiqi.biomart.cn
+,https://zhunter.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,杭州环特生物科技股份有限公司_商铺首页_丁香通,https://zhunter.biomart.cn
+,https://dyshengwu.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京缔一生物科技有限公司_商铺首页_丁香通,https://dyshengwu.biomart.cn
+,https://novelbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海烈冰生物医药科技有限公司_商铺首页_丁香通,https://novelbio.biomart.cn
+,https://oebiotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海欧易生物医学科技有限公司_商铺首页_丁香通,https://oebiotech.biomart.cn
+,https://yaji.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海雅吉生物科技有限公司 - 公司主页 - 丁香通,https://yaji.biomart.cn
+,https://sunncell.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉尚恩生物技术有限公司_商铺首页_丁香通,https://sunncell.biomart.cn
+,https://jinweibiao.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,苏州金纬标检测有限公司 - 公司主页 - 丁香通,https://jinweibiao.biomart.cn
+,https://medjaden.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,美捷登生物科技有限公司  Medjaden Inc._商铺首页_丁香通,https://medjaden.biomart.cn
+,https://annoron.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安诺伦（北京）生物科技有限公司_商铺首页_丁香通,https://annoron.biomart.cn
+,https://dgcs.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京鼎国昌盛生物技术有限责任公司 - 公司主页 - 丁香通,https://dgcs.biomart.cn
+,https://fitgene.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州辉骏生物科技股份有限公司_商铺首页_丁香通,https://fitgene.biomart.cn
+,https://m.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,丁香通-专业的科研采购信息和实验资讯平台,https://m.biomart.cn
+,https://shyuanmu.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海远慕生物科技有限公司_商铺首页_丁香通,https://shyuanmu.biomart.cn
+,https://link.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,跳转中...,https://link.biomart.cn
+,https://biomapper.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,宁波迈跃生物科技有限公司_商铺首页_丁香通,https://biomapper.biomart.cn
+,https://qybio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海乔羽生物科技有限公司_商铺首页_丁香通,https://qybio.biomart.cn
+,eclub.biomart.cn,80,biomart.cn,CN,"China Mobile Communications Group Co., Ltd.",106.75.48.135,http,丁香通品牌俱乐部,http://eclub.biomart.cn
+,https://eclub.biomart.cn,443,biomart.cn,CN,"China Mobile Communications Group Co., Ltd.",106.75.48.135,https,丁香通品牌俱乐部,https://eclub.biomart.cn
+,https://procell.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉普诺赛生命科技有限公司_商铺首页_丁香通,https://procell.biomart.cn
+,https://tme.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,成都泰盟软件有限公司 - 公司主页 - 丁香通,https://tme.biomart.cn
+,https://shguduo.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海古朵生物科技有限公司_商铺首页_丁香通,https://shguduo.biomart.cn
+,https://gdsbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州东盛生物科技有限公司 - 公司主页 - 丁香通,https://gdsbio.biomart.cn
+,https://pureonebio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海纯优生物科技有限公司 - 公司主页 - 丁香通,https://pureonebio.biomart.cn
+,https://scrbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海赛可锐生物科技有限公司 - 公司主页 - 丁香通,https://scrbio.biomart.cn
+,https://bunsen.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,本生（天津）健康科技有限公司_商铺首页_丁香通,https://bunsen.biomart.cn
+,https://bio-gener.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,杭州柏恒科技有限公司_商铺首页_丁香通,https://bio-gener.biomart.cn
+,https://oobio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,和元生物技术（上海）股份有限公司_商铺首页_丁香通,https://oobio.biomart.cn
+,https://tegent.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,德祥科技有限公司_商铺首页_丁香通,https://tegent.biomart.cn
+,https://biaowu.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京北纳创联生物技术研究院_商铺首页_丁香通,https://biaowu.biomart.cn
+,https://affandi-e.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海抚生实业有限公司_商铺首页_丁香通,https://affandi-e.biomart.cn
+,https://letpub.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,美国LetPub SCI论文编辑_商铺首页_丁香通,https://letpub.biomart.cn
+,https://c.biomart.cn,443,biomart.cn,CN,"China Mobile Communications Group Co., Ltd.",106.75.48.135,https,丁香通科学研究院,https://c.biomart.cn
+,c.biomart.cn,80,biomart.cn,CN,"China Mobile Communications Group Co., Ltd.",106.75.48.135,http,丁香通科学研究院,http://c.biomart.cn
+,https://biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,302 Found,https://biomart.cn
+,https://genetex.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,GeneTex_商铺首页_丁香通,https://genetex.biomart.cn
+,https://clodronateliposomes.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,靶点科技（北京）有限公司_商铺首页_丁香通,https://clodronateliposomes.biomart.cn
+,https://www.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,丁香通-专业的科研采购信息和实验资讯平台,https://www.biomart.cn
+,https://amyjet.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,艾美捷科技有限公司_商铺首页_丁香通,https://amyjet.biomart.cn
+,https://genepharma.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海吉玛制药技术有限公司_商铺首页_丁香通,https://genepharma.biomart.cn
+,https://wanleibio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,沈阳万类生物科技有限公司_商铺首页_丁香通,https://wanleibio.biomart.cn
+,https://acrobiosystems.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京百普赛斯生物科技股份有限公司_商铺首页_丁香通,https://acrobiosystems.biomart.cn
+,https://scileader.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州泰杰生物科技有限公司 - 公司主页 - 丁香通,https://scileader.biomart.cn
+,https://huatengsci.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,湖南华腾制药有限公司_商铺首页_丁香通,https://huatengsci.biomart.cn
+,https://scilight-peptide.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京中科亚光生物科技有限公司_商铺首页_丁香通,https://scilight-peptide.biomart.cn
+,https://zymo.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,简石生物技术（北京）有限公司_商铺首页_丁香通,https://zymo.biomart.cn
+,https://sinopeg.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,厦门赛诺邦格生物科技股份有限公司 - 公司主页 - 丁香通,https://sinopeg.biomart.cn
+,https://glsbiochem.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,吉尔生化（上海）有限公司 - 公司主页 - 丁香通,https://glsbiochem.biomart.cn
+,https://std-med.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,湖北扬信医药科技有限公司 - 公司主页 - 丁香通,https://std-med.biomart.cn
+,https://metmass.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,昆山欧米克斯生物科技有限公司_商铺首页_丁香通,https://metmass.biomart.cn
+,https://mimetas.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,MIMETAS中国_商铺首页_丁香通,https://mimetas.biomart.cn
+,https://tosohdiagnostics.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,东曹(上海)生物科技有限公司 - 公司主页 - 丁香通,https://tosohdiagnostics.biomart.cn
+,https://promocell-china.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,江苏艾洛特生物科技有限公司_商铺首页_丁香通,https://promocell-china.biomart.cn
+,https://yongxinkangtai.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京永欣康泰科技发展有限公司_商铺首页_丁香通,https://yongxinkangtai.biomart.cn
+,https://weikeqi-biotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,四川省维克奇生物科技有限公司_商铺首页_丁香通,https://weikeqi-biotech.biomart.cn
+,https://zzstandard.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海甄准生物科技有限公司 - 公司主页 - 丁香通,https://zzstandard.biomart.cn
+,https://upwards.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京普升达科贸有限公司 - 公司主页 - 丁香通,https://upwards.biomart.cn
+,https://tsingke.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京擎科生物科技股份有限公司_商铺首页_丁香通,https://tsingke.biomart.cn
+,https://superchip.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海芯超生物科技有限公司_商铺首页_丁香通,https://superchip.biomart.cn
+,https://targetmol.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,TargetMol中国_商铺首页_丁香通,https://targetmol.biomart.cn
+,https://donglindldevelop.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,无锡市东林科技发展有限责任公司_商铺首页_丁香通,https://donglindldevelop.biomart.cn
+,https://trophic.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,南通特洛菲饲料科技有限公司 - 公司主页 - 丁香通,https://trophic.biomart.cn
+,https://guangzhouascend.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州飞升精密设备有限公司_商铺首页_丁香通,https://guangzhouascend.biomart.cn
+,https://zeissmicroscopy.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,卡尔蔡司（上海）管理有限公司 - 公司主页 - 丁香通,https://zeissmicroscopy.biomart.cn
+,https://sanotac.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海三为科学仪器有限公司 - 公司主页 - 丁香通,https://sanotac.biomart.cn
+,https://olympus-lifescience.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,仪景通光学科技（上海）有限公司_商铺首页_丁香通,https://olympus-lifescience.biomart.cn
+,https://xqxzbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海中乔新舟生物科技有限公司_商铺首页_丁香通,https://xqxzbio.biomart.cn
+,https://ymfxbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京亿鸣复兴生物科技有限公司_商铺首页_丁香通,https://ymfxbio.biomart.cn
+,https://zhongbiao.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉中标科技有限公司_商铺首页_丁香通,https://zhongbiao.biomart.cn
+,https://chemegen.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,ChemeGen中国_商铺首页_丁香通,https://chemegen.biomart.cn
+,https://renoldbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,苏州瑞诺德生物科技有限公司_商铺首页_丁香通,https://renoldbio.biomart.cn
+,https://baomanbiochem.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海宝曼生物科技有限公司（Baomanbio自主品牌） - 公司主页 - 丁香通,https://baomanbiochem.biomart.cn
+,https://cell-regen.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,赛尔瑞成（北京）生命科学技术有限公司_商铺首页_丁香通,https://cell-regen.biomart.cn
+,https://vectorscience.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉维克赛思科技有限公司_商铺首页_丁香通,https://vectorscience.biomart.cn
+,https://biomedproofreading.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,文安英文论文编修_商铺首页_丁香通,https://biomedproofreading.biomart.cn
+,https://zslab1.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京众实迪创科技发展有限责任公司 - 公司主页 - 丁香通,https://zslab1.biomart.cn
+,https://social.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,丁香通品牌学堂,https://social.biomart.cn
+,https://maige.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,江苏麦格生物科技有限公司_商铺首页_丁香通,https://maige.biomart.cn
+,https://nuohailifescience.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,锘海生物科学仪器（上海）股份有限公司_商铺首页_丁香通,https://nuohailifescience.biomart.cn
+,https://bjhuakesheng.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京华科盛精细化工产品贸易有限公司 - 公司主页 - 丁香通,https://bjhuakesheng.biomart.cn
+,https://hippobio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,湖州河马生物科技有限公司_商铺首页_丁香通,https://hippobio.biomart.cn
+,https://bjthinkfar.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京智杰方远科技有限公司 - 公司主页 - 丁香通,https://bjthinkfar.biomart.cn
+,https://neweastbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉纽斯特生物技术有限公司 - 公司主页 - 丁香通,https://neweastbio.biomart.cn
+,https://zuofeibio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海昨非实验室设备有限公司_商铺首页_丁香通,https://zuofeibio.biomart.cn
+,https://sbo.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海生博生物医药科技有限公司 - 公司主页 - 丁香通,https://sbo.biomart.cn
+,https://westang.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海西唐生物科技有限公司 - 公司主页 - 丁香通,https://westang.biomart.cn
+,https://genenergy.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,晶能生物技术（上海）有限公司_商铺首页_丁香通,https://genenergy.biomart.cn
+,https://brainvta.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉枢密脑科学技术有限公司_商铺首页_丁香通,https://brainvta.biomart.cn
+,https://biosmedi.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,百致生物医药科技（上海）有限公司_商铺首页_丁香通,https://biosmedi.biomart.cn
+,https://ruichbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海瑞楚生物科技有限公司_商铺首页_丁香通,https://ruichbio.biomart.cn
+,https://myhalic.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉贝茵莱生物科技有限公司_商铺首页_丁香通,https://myhalic.biomart.cn
+,https://shxysw.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海信裕生物科技有限公司_商铺首页_丁香通,https://shxysw.biomart.cn
+,https://xinfan.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海信帆生物科技有限公司_商铺首页_丁香通,https://xinfan.biomart.cn
+,https://bomeida.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,江苏博美达生命科学有限公司_商铺首页_丁香通,https://bomeida.biomart.cn
+,https://guangrui.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海广锐生物科技有限公司_商铺首页_丁香通,https://guangrui.biomart.cn
+,https://sinobiological.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京义翘神州科技股份有限公司(Sino Biological Inc.)_商铺首页_丁香通,https://sinobiological.biomart.cn
+,https://whelab.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海盈湾生物科技有限公司_商铺首页_丁香通,https://whelab.biomart.cn
+,https://fuyuanbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,弗元（上海）生物科技有限公司_商铺首页_丁香通,https://fuyuanbio.biomart.cn
+,https://xiyuan-bio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,谱析（上海）生物科技有限公司_商铺首页_丁香通,https://xiyuan-bio.biomart.cn
+,https://prorevolab.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京普瑞华盛生物科技有限公司 - 公司主页 - 丁香通,https://prorevolab.biomart.cn
+,https://ronpharm.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,罗辅医药科技（上海）有限公司_商铺首页_丁香通,https://ronpharm.biomart.cn
+,https://shklsw.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海康朗生物科技有限公司_商铺首页_丁香通,https://shklsw.biomart.cn
+,https://naturethink.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海泉众机电科技有限公司_商铺首页_丁香通,https://naturethink.biomart.cn
+,https://zktony.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,南京中科通仪科技有限公司 - 公司主页 - 丁香通,https://zktony.biomart.cn
+,https://finetest.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉菲恩生物科技有限公司_商铺首页_丁香通,https://finetest.biomart.cn
+,https://topbiotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,深圳市拓普生物科技有限公司_商铺首页_丁香通,https://topbiotech.biomart.cn
+,https://seiko.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海正晃商贸有限公司_商铺首页_丁香通,https://seiko.biomart.cn
+,https://dahuibio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州达晖生物技术股份有限公司_商铺首页_丁香通,https://dahuibio.biomart.cn
+,https://molarray.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,苏州雅睿生物技术股份有限公司 - 公司主页 - 丁香通,https://molarray.biomart.cn
+,https://huayinlab.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州华银康医疗集团股份有限公司_商铺首页_丁香通,https://huayinlab.biomart.cn
+,https://tissuelyser.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海净信实业发展有限公司_商铺首页_丁香通,https://tissuelyser.biomart.cn
+,https://biolzy.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海联硕生物科技有限公司_商铺首页_丁香通,https://biolzy.biomart.cn
+,https://hongene.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海兆维科技发展有限公司_商铺首页_丁香通,https://hongene.biomart.cn
+,https://microsep.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,无锡微色谱生物科技有限公司 - 公司主页 - 丁香通,https://microsep.biomart.cn
+,https://test-china.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,${name}_商铺首页_丁香通,https://test-china.biomart.cn
+,https://mightybio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,南京妙迪生物科技有限公司_商铺首页_丁香通,https://mightybio.biomart.cn
+,https://scdeall.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安简（北京）科技有限公司_商铺首页_丁香通,https://scdeall.biomart.cn
+,https://realantibody.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,天津锐尔康生物科技有限公司_商铺首页_丁香通,https://realantibody.biomart.cn
+,https://wordvice.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,Wordvice英文学术论文编辑_商铺首页_丁香通,https://wordvice.biomart.cn
+,https://scienion.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,Scienion GmbH_商铺首页_丁香通,https://scienion.biomart.cn
+,https://lengtonbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海朗顿生物科技有限公司 - 公司主页 - 丁香通,https://lengtonbio.biomart.cn
+,https://youlong.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海佑隆生物科技有限公司_商铺首页_丁香通,https://youlong.biomart.cn
+,https://abclonal.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉爱博泰克生物科技有限公司_商铺首页_丁香通,https://abclonal.biomart.cn
+,https://abace.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京安必奇生物科技有限公司 - 公司主页 - 丁香通,https://abace.biomart.cn
+,https://accuramed.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,云准医药科技（上海）有限公司_商铺首页_丁香通,https://accuramed.biomart.cn
+,https://abways.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,${name}_商铺首页_丁香通,https://abways.biomart.cn
+,https://yiyan.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海一研生物科技有限公司_商铺首页_丁香通,https://yiyan.biomart.cn
+,https://abnova.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,亚诺法生技股份有限公司（Abnova） - 公司主页 - 丁香通,https://abnova.biomart.cn
+,https://abcam.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,艾博抗（上海）贸易有限公司（Abcam上海办事处）_商铺首页_丁香通,https://abcam.biomart.cn
+,https://hopstem.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://hopstem.biomart.cn
+,https://learning.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://learning.biomart.cn
+,https://bpsbioscience.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,BPS Bioscience Inc. - 公司主页 - 丁香通,https://bpsbioscience.biomart.cn
+,https://xinshengyuan.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京信生元生物医学科技有限公司 - 公司主页 - 丁香通,https://xinshengyuan.biomart.cn
+,https://zhishuduobao.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京智鼠多宝生物科技有限责任公司 - 公司主页 - 丁香通,https://zhishuduobao.biomart.cn
+,https://yujiabiology.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州誉嘉生物科技有限公司_商铺首页_丁香通,https://yujiabiology.biomart.cn
+,https://xianzhongtuan.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,西安中团生物科技有限公司 - 公司主页 - 丁香通,https://xianzhongtuan.biomart.cn
+,https://kmdbioscience.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,卡梅德生物科技（天津）有限公司_商铺首页_丁香通,https://kmdbioscience.biomart.cn
+,https://spectrumchina.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,斯百全化学（上海）有限公司 - 公司主页 - 丁香通,https://spectrumchina.biomart.cn
+,https://vectorbuilder.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,云舟生物科技（广州）股份有限公司_商铺首页_丁香通,https://vectorbuilder.biomart.cn
+,https://chinapeptides.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海强耀生物科技有限公司_商铺首页_丁香通,https://chinapeptides.biomart.cn
+,https://nanomicro0512.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,苏州纳微科技股份有限公司 - 公司主页 - 丁香通,https://nanomicro0512.biomart.cn
+,https://yusenbiotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,惠森生物科技（上海）有限公司 - 公司主页 - 丁香通,https://yusenbiotech.biomart.cn
+,https://jskcbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,江苏康成百澳生物科技有限公司_商铺首页_丁香通,https://jskcbio.biomart.cn
+,https://ilabservice.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,释普信息科技(上海)有限公司_商铺首页_丁香通,https://ilabservice.biomart.cn
+,https://azenta.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,Azenta安升达_商铺首页_丁香通,https://azenta.biomart.cn
+,https://cyagen.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,赛业（苏州）生物科技有限公司_商铺首页_丁香通,https://cyagen.biomart.cn
+,https://aje.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,美国期刊专家 AJE -丁香通官方旗舰店_商铺首页_丁香通,https://aje.biomart.cn
+,https://stemcelltechnologies.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,STEMCELL Technologies Inc._商铺首页_丁香通,https://stemcelltechnologies.biomart.cn
+,https://link.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://link.biomart.cn
+,https://oebiotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://oebiotech.biomart.cn
+,https://shfubio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海富雨生物科技有限公司_商铺首页_丁香通,https://shfubio.biomart.cn
+,biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://biomart.cn
+,social.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://social.biomart.cn
+,hxbio.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://hxbio.biomart.cn
+,bunsen.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://bunsen.biomart.cn
+,pro.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://pro.biomart.cn
+,pureonebio.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://pureonebio.biomart.cn
+,shklsw.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://shklsw.biomart.cn
+,https://mce.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,MedChemExpress LLC_商铺首页_丁香通,https://mce.biomart.cn
+,https://novoprotein.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,苏州近岸蛋白质科技股份有限公司_商铺首页_丁香通,https://novoprotein.biomart.cn
+,https://biocyto.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州柏赛柯生物技术有限公司_商铺首页_丁香通,https://biocyto.biomart.cn
+,https://labgic.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京兰杰柯科技有限公司_商铺首页_丁香通,https://labgic.biomart.cn
+,https://wncell.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉华尔纳生物科技有限公司_商铺首页_丁香通,https://wncell.biomart.cn
+,https://umibio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海宇玫博生物科技有限公司_商铺首页_丁香通,https://umibio.biomart.cn
+,https://wikieq.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州维基科技有限公司_商铺首页_丁香通,https://wikieq.biomart.cn
+,https://bestbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,贝博-Bestbio - 公司主页 - 丁香通,https://bestbio.biomart.cn
+,https://labcan.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,Labcan Scientific_商铺首页_丁香通,https://labcan.biomart.cn
+,https://keshun.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海科顺生物科技有限公司_商铺首页_丁香通,https://keshun.biomart.cn
+,https://ranger.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海然哲仪器设备有限公司_商铺首页_丁香通,https://ranger.biomart.cn
+,https://ykcbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州市科易成新材料有限公司_商铺首页_丁香通,https://ykcbio.biomart.cn
+,https://yhkjwh.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉一鸿科技有限公司_商铺首页_丁香通,https://yhkjwh.biomart.cn
+,https://scilia.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京镁伽机器人科技有限公司_商铺首页_丁香通,https://scilia.biomart.cn
+,https://wisent.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,维森特生物技术（南京）有限公司_商铺首页_丁香通,https://wisent.biomart.cn
+,https://lab.apt.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,${name}_商铺首页_丁香通,https://lab.apt.biomart.cn
+,https://apexbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,艾普拜生物科技（苏州）有限公司 - 公司主页 - 丁香通,https://apexbio.biomart.cn
+,https://sybio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,杭州欣友生物技术有限公司_商铺首页_丁香通,https://sybio.biomart.cn
+,https://bjzblg.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京中北林格科技发展有限公司_商铺首页_丁香通,https://bjzblg.biomart.cn
+,https://tecan.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,帝肯（上海）实验器材有限公司_商铺首页_丁香通,https://tecan.biomart.cn
+,https://tanda.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉百意欣生物技术有限公司_商铺首页_丁香通,https://tanda.biomart.cn
+,https://ziker.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,深圳子科生物科技有限公司_商铺首页_丁香通,https://ziker.biomart.cn
+,https://syker.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,实科生物科技（北京）有限公司_商铺首页_丁香通,https://syker.biomart.cn
+,https://sw-sh.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海实维实验仪器技术有限公司 - 公司主页 - 丁香通,https://sw-sh.biomart.cn
+,https://ysysw.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,天津国晟中源科技有限责任公司_商铺首页_丁香通,https://ysysw.biomart.cn
+,https://zhiyu.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,深圳智预生命科技有限公司_商铺首页_丁香通,https://zhiyu.biomart.cn
+,https://skyho.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海天贺生物科技有限公司 - 公司主页 - 丁香通,https://skyho.biomart.cn
+,https://skbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京盛科博源生物科技有限公司_商铺首页_丁香通,https://skbio.biomart.cn
+,https://zrhx.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,湖南中瑞互信医疗科技有限公司 - 公司主页 - 丁香通,https://zrhx.biomart.cn
+,https://opcel.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,内蒙古奥普赛生物科技有限公司_商铺首页_丁香通,https://opcel.biomart.cn
+,https://zkgh.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,中科光华（西安）智能生物科技有限公司_商铺首页_丁香通,https://zkgh.biomart.cn
+,https://_.pool.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://_.pool.biomart.cn
+,https://gcuser_2810804.musicloversandlovers.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://gcuser_2810804.musicloversandlovers.biomart.cn
+,https://xlswkj.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海煊翎生物科技有限公司 - 公司主页 - 丁香通,https://xlswkj.biomart.cn
+,https://biomars.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京博迈斯科技发展有限公司 - 公司主页 - 丁香通,https://biomars.biomart.cn
+,https://shgnsw.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海盖宁生物科技有限公司_商铺首页_丁香通,https://shgnsw.biomart.cn
+,https://hzsjq.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,浙江天杭生物科技股份有限公司_商铺首页_丁香通,https://hzsjq.biomart.cn
+,https://books.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,丁香园官方店 - 公司主页 - 丁香通,https://books.biomart.cn
+,https://hahah.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,丁香通产品 - 公司主页 - 丁香通,https://hahah.biomart.cn
+,https://jlmkj.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,四川杰莱美科技有限公司 - 公司主页 - 丁香通,https://jlmkj.biomart.cn
+,https://smi.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,博莱克科技（武汉）有限公司 - 公司主页 - 丁香通,https://smi.biomart.cn
+,https://ruite.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州蕊特生物科技有限公司 - 公司主页 - 丁香通,https://ruite.biomart.cn
+,https://ubi.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,攸碧艾（上海）贸易有限公司_商铺首页_丁香通,https://ubi.biomart.cn
+,https://bomeibio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,合肥博美生物科技有限责任公司 - 公司主页 - 丁香通,https://bomeibio.biomart.cn
+,https://leagene.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京雷根生物技术有限公司_商铺首页_丁香通,https://leagene.biomart.cn
+,https://yocon.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,友康生物科技（北京）股份有限公司_商铺首页_丁香通,https://yocon.biomart.cn
+,https://pss.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海奥法美嘉生物科技有限公司_商铺首页_丁香通,https://pss.biomart.cn
+,https://fant.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海梵态生物科技有限公司_商铺首页_丁香通,https://fant.biomart.cn
+,https://kbxy.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,科邦兴业（北京）科技有限公司_商铺首页_丁香通,https://kbxy.biomart.cn
+,https://jhsw.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海继和生物科技有限公司_商铺首页_丁香通,https://jhsw.biomart.cn
+,https://ibio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,江西艾博因生物科技有限公司_商铺首页_丁香通,https://ibio.biomart.cn
+,https://hcsw.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,天津和创生物技术有限公司_商铺首页_丁香通,https://hcsw.biomart.cn
+,https://cell.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京细工商贸中心_商铺首页_丁香通,https://cell.biomart.cn
+,https://huge.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海辉质生物科技有限公司 - 公司主页 - 丁香通,https://huge.biomart.cn
+,https://h.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京华泰昕生物医疗技术有限公司_商铺首页_丁香通,https://h.biomart.cn
+,https://hzhx.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,杭州昊鑫生物科技股份有限公司_商铺首页_丁香通,https://hzhx.biomart.cn
+,https://apt.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海中科新生命生物科技有限公司_商铺首页_丁香通,https://apt.biomart.cn
+,https://ika.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,艾卡（广州）仪器设备有限公司（德国IKA）_商铺首页_丁香通,https://ika.biomart.cn
+,https://gtb.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,苏州鉴达生物科技有限公司 - 公司主页 - 丁香通,https://gtb.biomart.cn
+,https://_.m.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://_.m.biomart.cn
+,https://10th.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,丁香通十周年专题,https://10th.biomart.cn
+,https://abvbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海宾智生物科技有限公司 - 公司主页 - 丁香通,https://abvbio.biomart.cn
+,https://allsheng666.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,杭州奥盛仪器有限公司_商铺首页_丁香通,https://allsheng666.biomart.cn
+,https://_msdcs.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://_msdcs.biomart.cn
+,https://aaa.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,丁香通营销服务商城_商铺首页_丁香通,https://aaa.biomart.cn
+,https://gc._msdcs.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://gc._msdcs.biomart.cn
+,https://_.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://_.biomart.cn
+,liver.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://liver.biomart.cn
+,mce.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://mce.biomart.cn
+,clodronateliposomes.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://clodronateliposomes.biomart.cn
+,link.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://link.biomart.cn
+,yutonginstrument.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://yutonginstrument.biomart.cn
+,act.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://act.biomart.cn
+,https://genfine.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,济凡生物科技（北京）有限公司_商铺首页_丁香通,https://genfine.biomart.cn
+,https://mtchina.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,梅特勒托利多（中国）_商铺首页_丁香通,https://mtchina.biomart.cn
+,https://bioforcesci.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京博生福生物技术有限责任公司 - 公司主页 - 丁香通,https://bioforcesci.biomart.cn
+,https://bioogenetech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安徽佰欧晶医学科技有限公司_商铺首页_丁香通,https://bioogenetech.biomart.cn
+,https://idexxwater.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,美国爱德士公司 - 公司主页 - 丁香通,https://idexxwater.biomart.cn
+,https://mcao-model.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,${name}_商铺首页_丁香通,https://mcao-model.biomart.cn
+,https://malvern.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,马尔文帕纳科_商铺首页_丁香通,https://malvern.biomart.cn
+,https://apt.legacy.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海中科新生命生物科技有限公司_商铺首页_丁香通,https://apt.legacy.biomart.cn
+,https://genloci.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,江苏吉锐生物技术有限公司_商铺首页_丁香通,https://genloci.biomart.cn
+,https://lab.bioteke.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安徽乐奥贝生物技术有限公司 - 公司主页 - 丁香通,https://lab.bioteke.biomart.cn
+,https://dahubiotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,南京大户生物科技有限公司 - 公司主页 - 丁香通,https://dahubiotech.biomart.cn
+,https://delivectory.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,中吉当康（北京）基因技术有限公司_商铺首页_丁香通,https://delivectory.biomart.cn
+,https://instrimpex.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京东南顺泰科贸有限公司_商铺首页_丁香通,https://instrimpex.biomart.cn
+,https://qinglianbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京青莲百奥生物科技有限公司_商铺首页_丁香通,https://qinglianbio.biomart.cn
+,https://aaa.remora.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,丁香通营销服务商城_商铺首页_丁香通,https://aaa.remora.biomart.cn
+,https://lonsera.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,${name}_商铺首页_丁香通,https://lonsera.biomart.cn
+,https://meyuecn.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,长沙迈越生物科技有限公司 - 公司主页 - 丁香通,https://meyuecn.biomart.cn
+,https://heronpharma.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,海勃（上海）医药科技有限公司_商铺首页_丁香通,https://heronpharma.biomart.cn
+,https://rongbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海榕柏生物技术有限公司 - 公司主页 - 丁香通,https://rongbio.biomart.cn
+,https://oribiotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海澳能生物技术有限公司_商铺首页_丁香通,https://oribiotech.biomart.cn
+,https://medicience.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,江苏美迪森生物医药有限公司 - 公司主页 - 丁香通,https://medicience.biomart.cn
+,https://henanzeyuan.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,河南泽垣医疗器械销售有限公司_商铺首页_丁香通,https://henanzeyuan.biomart.cn
+,https://rainbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海睿安生物科技有限公司_商铺首页_丁香通,https://rainbio.biomart.cn
+,https://oebio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉沃亿生物有限公司_商铺首页_丁香通,https://oebio.biomart.cn
+,https://coslan.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州市科之蓝仪器有限公司_商铺首页_丁香通,https://coslan.biomart.cn
+,https://biodot.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,百道贸易（上海）有限公司 - 公司主页 - 丁香通,https://biodot.biomart.cn
+,https://biotwer.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉伯韬生物科技有限公司_商铺首页_丁香通,https://biotwer.biomart.cn
+,https://chromai.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,科诺美（北京）科技有限公司_商铺首页_丁香通,https://chromai.biomart.cn
+,https://langxi.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海朗喜工业科技有限公司 - 公司主页 - 丁香通,https://langxi.biomart.cn
+,https://jinsui.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海金穗生物科技有限公司 - 公司主页 - 丁香通,https://jinsui.biomart.cn
+,https://eiaab.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,伊艾博（武汉）科技股份有限公司_商铺首页_丁香通,https://eiaab.biomart.cn
+,https://lvdu.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,山东绿都生物科技有限公司_商铺首页_丁香通,https://lvdu.biomart.cn
+,https://biosic.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,定州百克赛斯生物科技有限公司_商铺首页_丁香通,https://biosic.biomart.cn
+,https://bersee.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京博尔西科技有限公司_商铺首页_丁香通,https://bersee.biomart.cn
+,https://cavens.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,常州卡文斯实验动物有限公司_商铺首页_丁香通,https://cavens.biomart.cn
+,https://exsson.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,埃克森（北京）科技有限公司 - 公司主页 - 丁香通,https://exsson.biomart.cn
+,https://dawei17.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,杭州大微生物技术有限公司 - 公司主页 - 丁香通,https://dawei17.biomart.cn
+,https://nl17.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,杭州纽蓝科技有限公司_商铺首页_丁香通,https://nl17.biomart.cn
+,https://ajesci.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,艾捷译 SCI 医学编辑_商铺首页_丁香通,https://ajesci.biomart.cn
+,https://kirgen.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海科进生物技术有限公司_商铺首页_丁香通,https://kirgen.biomart.cn
+,https://mlbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海酶联生物科技有限公司_商铺首页_丁香通,https://mlbio.biomart.cn
+,https://biolab.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,杭州沃森生物技术有限公司_商铺首页_丁香通,https://biolab.biomart.cn
+,https://csbaso.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,珠海贝索细胞科学技术有限公司_商铺首页_丁香通,https://csbaso.biomart.cn
+,https://cbio21.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京赛百奥科技有限公司_商铺首页_丁香通,https://cbio21.biomart.cn
+,https://aicabj.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,艾佧科技（北京）有限公司_商铺首页_丁香通,https://aicabj.biomart.cn
+,https://labex.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海乐备实生物技术有限公司_商铺首页_丁香通,https://labex.biomart.cn
+,https://huabio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,杭州华安生物技术有限公司_商铺首页_丁香通,https://huabio.biomart.cn
+,https://phys.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,深圳菲斯生物科技有限公司_商铺首页_丁香通,https://phys.biomart.cn
+,https://lmai.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海联迈生物工程有限公司_商铺首页_丁香通,https://lmai.biomart.cn
+,https://hycell.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉恒意赛生物科技有限公司_商铺首页_丁香通,https://hycell.biomart.cn
+,https://bio-ope.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海开放生物科技有限公司_商铺首页_丁香通,https://bio-ope.biomart.cn
+,https://hrhkj.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京慧荣和科技有限公司_商铺首页_丁香通,https://hrhkj.biomart.cn
+,https://phiab.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,Phase Holographic Imaging_商铺首页_丁香通,https://phiab.biomart.cn
+,https://qmgene.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京乾明基因技术有限公司 - 公司主页 - 丁香通,https://qmgene.biomart.cn
+,https://labks.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京兰博康斯科技有限公司 - 公司主页 - 丁香通,https://labks.biomart.cn
+,https://bioss.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京博奥森生物技术有限公司_商铺首页_丁香通,https://bioss.biomart.cn
+,https://cdzlsh.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,天府新区华阳正龙生化制品研究室 - 公司主页 - 丁香通,https://cdzlsh.biomart.cn
+,https://pituo.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海匹拓生物科技有限公司_商铺首页_丁香通,https://pituo.biomart.cn
+,https://fubio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海复百澳生物科技有限公司_商铺首页_丁香通,https://fubio.biomart.cn
+,https://genom.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,浙江吉诺赛百尔生物科技有限公司_商铺首页_丁香通,https://genom.biomart.cn
+,http1.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://http1.biomart.cn
+,http2.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://http2.biomart.cn
+,https.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://https.biomart.cn
+,https://jenkem.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京键凯科技股份有限公司_商铺首页_丁香通,https://jenkem.biomart.cn
+,https://biolead.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京博蕾德生物科技有限公司 - 公司主页 - 丁香通,https://biolead.biomart.cn
+,https://keleisw.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海柯雷生物科技有限公司_商铺首页_丁香通,https://keleisw.biomart.cn
+,https://wheybio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海伟寰生物科技有限公司_商铺首页_丁香通,https://wheybio.biomart.cn
+,https://stressmarq.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,StressMarq Biosciences Inc._商铺首页_丁香通,https://stressmarq.biomart.cn
+,https://microread.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京阅微基因技术股份有限公司_商铺首页_丁香通,https://microread.biomart.cn
+,https://hehuatech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州合华科技有限公司 - 公司主页 - 丁香通,https://hehuatech.biomart.cn
+,https://genechem.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海吉凯基因医学科技股份有限公司_商铺首页_丁香通,https://genechem.biomart.cn
+,https://biodee.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京拜尔迪生物技术有限公司_商铺首页_丁香通,https://biodee.biomart.cn
+,https://chuangseed.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州创赛生物医用材料有限公司_商铺首页_丁香通,https://chuangseed.biomart.cn
+,https://iba-lifesciences.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,IBA Lifesciences_商铺首页_丁香通,https://iba-lifesciences.biomart.cn
+,https://agilentgenomics.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安捷伦科技（中国）有限公司_商铺首页_丁香通,https://agilentgenomics.biomart.cn
+,https://keepseeking.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州千寻生物技术有限公司_商铺首页_丁香通,https://keepseeking.biomart.cn
+,https://modelorg.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海南方模式生物科技股份有限公司_商铺首页_丁香通,https://modelorg.biomart.cn
+,https://jcsy.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海机纯实业有限公司_商铺首页_丁香通,https://jcsy.biomart.cn
+,https://biomics.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,百奥迈科生物技术有限公司 - 公司主页 - 丁香通,https://biomics.biomart.cn
+,https://absin.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,爱必信(上海)生物科技有限公司_商铺首页_丁香通,https://absin.biomart.cn
+,https://animals-science.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京安默赛斯生物科技有限公司_商铺首页_丁香通,https://animals-science.biomart.cn
+,https://55sci.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海臻诺生物科技有限公司_商铺首页_丁香通,https://55sci.biomart.cn
+,https://aksomics.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,数谱（上海）生物科技有限公司_商铺首页_丁香通,https://aksomics.biomart.cn
+,https://kinray.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海精瑞科学仪器有限公司 - 公司主页 - 丁香通,https://kinray.biomart.cn
+,https://qbioscience.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京群晓科苑生物技术有限公司 - 公司主页 - 丁香通,https://qbioscience.biomart.cn
+,https://hangzhouhouze.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,杭州厚泽生物科技有限公司_商铺首页_丁香通,https://hangzhouhouze.biomart.cn
+,https://bhbta.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海博湖生物科技有限公司_商铺首页_丁香通,https://bhbta.biomart.cn
+,https://peprotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,派普泰克生物科技（苏州）有限公司（PeproTech中国） - 公司主页 - 丁香通,https://peprotech.biomart.cn
+,https://antishengwu.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,深圳市安提生物科技有限公司 - 公司主页 - 丁香通,https://antishengwu.biomart.cn
+,https://baitaike.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,洛阳市佰泰科生物技术有限公司 - 公司主页 - 丁香通,https://baitaike.biomart.cn
+,https://chembio-engine.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,麒盟（上海）生物医学有限公司 - 公司主页 - 丁香通,https://chembio-engine.biomart.cn
+,https://biopike.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,博奥派克生物_商铺首页_丁香通,https://biopike.biomart.cn
+,https://frdbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,福因德科技（武汉）有限公司_商铺首页_丁香通,https://frdbio.biomart.cn
+,https://yaoyunbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海瑶韵生物科技有限公司 - 公司主页 - 丁香通,https://yaoyunbio.biomart.cn
+,https://sbjbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,南京森贝伽生物科技有限公司_商铺首页_丁香通,https://sbjbio.biomart.cn
+,https://eproll.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉益普生物科技有限公司_商铺首页_丁香通,https://eproll.biomart.cn
+,https://shrbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,南京赛泓瑞生物科技有限公司_商铺首页_丁香通,https://shrbio.biomart.cn
+,https://western.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,威斯腾生物_商铺首页_丁香通,https://western.biomart.cn
+,https://meridianlifescience.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京迈迪安生物科技有限公司_商铺首页_丁香通,https://meridianlifescience.biomart.cn
+,https://hepengbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,赫澎（上海）生物科技有限公司_商铺首页_丁香通,https://hepengbio.biomart.cn
+,https://balb.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京百奥莱博科技有限公司 - 公司主页 - 丁香通,https://balb.biomart.cn
+,https://hanhbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,汉恒生物科技（上海）有限公司_商铺首页_丁香通,https://hanhbio.biomart.cn
+,https://ptglab.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,Proteintech中国公司_商铺首页_丁香通,https://ptglab.biomart.cn
+,https://mingzhoubio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,宁波明舟生物科技有限公司_商铺首页_丁香通,https://mingzhoubio.biomart.cn
+,https://biohj.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,厦门慧嘉生物科技有限公司 - 公司主页 - 丁香通,https://biohj.biomart.cn
+,https://moleculardevices.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,美谷分子仪器（上海）有限公司_商铺首页_丁香通,https://moleculardevices.biomart.cn
+,https://haronsep.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,南通海箬化学有限公司 - 公司主页 - 丁香通,https://haronsep.biomart.cn
+,https://elisakits.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海酶研生物科技有限公司_商铺首页_丁香通,https://elisakits.biomart.cn
+,https://synbio-tech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,苏州泓迅生物科技股份有限公司_商铺首页_丁香通,https://synbio-tech.biomart.cn
+,https://efebio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海一飞生物科技有限公司 - 公司主页 - 丁香通,https://efebio.biomart.cn
+,https://shcqsw.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海传秋生物科技有限公司_商铺首页_丁香通,https://shcqsw.biomart.cn
+,https://solarbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京索莱宝科技有限公司_商铺首页_丁香通,https://solarbio.biomart.cn
+,https://biobase.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,济南博航生物技术有限公司  - 公司主页 - 丁香通,https://biobase.biomart.cn
+,https://mpbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,MP Biomedicals_商铺首页_丁香通,https://mpbio.biomart.cn
+,https://yeasen.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,翌圣生物科技（上海）股份有限公司_商铺首页_丁香通,https://yeasen.biomart.cn
+,https://icellbioscience.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,赛百慷（上海）生物技术股份有限公司_商铺首页_丁香通,https://icellbioscience.biomart.cn
+,vclub.biomart.cn,80,biomart.cn,CN,"China Mobile Communications Group Co., Ltd.",106.75.48.135,http,,http://vclub.biomart.cn
+,https://wondfobio-material.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州万孚生物技术股份有限公司 - 公司主页 - 丁香通,https://wondfobio-material.biomart.cn
+,https://wksubio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海瓦兰生物科技有限公司_商铺首页_丁香通,https://wksubio.biomart.cn
+,https://neobio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京益奥柏科贸有限公司_商铺首页_丁香通,https://neobio.biomart.cn
+,https://shyijisy.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海一基实业有限公司 - 公司主页 - 丁香通,https://shyijisy.biomart.cn
+,https://jkchem.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海经科化学科技有限公司 - 公司主页 - 丁香通,https://jkchem.biomart.cn
+,https://runwell.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海嵘崴达实业有限公司 - 公司主页 - 丁香通,https://runwell.biomart.cn
+,https://jax.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,杰克森医疗科技（上海）有限公司_商铺首页_丁香通,https://jax.biomart.cn
+,https://seebio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,西宝生物科技(上海)股份有限公司 - 公司主页 - 丁香通,https://seebio.biomart.cn
+,https://shkmsw.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海恪敏生物科技有限公司 - 公司主页 - 丁香通,https://shkmsw.biomart.cn
+,https://hopebiol.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,青岛高科技工业园海博生物技术有限公司_商铺首页_丁香通,https://hopebiol.biomart.cn
+,https://vclub.biomart.cn,443,biomart.cn,CN,"China Mobile Communications Group Co., Ltd.",106.75.48.135,https,,https://vclub.biomart.cn
+,https://dhsbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京昊诺斯科技有限公司 - 公司主页 - 丁香通,https://dhsbio.biomart.cn
+,https://med-nanotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海舜纳生物科技有限公司_商铺首页_丁香通,https://med-nanotech.biomart.cn
+,https://inventbiotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,英文特生物技术（北京）有限公司_商铺首页_丁香通,https://inventbiotech.biomart.cn
+,https://ebiomall.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,苏州蚂蚁淘生物科技有限公司 - 公司主页 - 丁香通,https://ebiomall.biomart.cn
+,https://shzysw.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海泽叶生物科技有限公司_商铺首页_丁香通,https://shzysw.biomart.cn
+,https://sangshai.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海桑晒生物科技有限公司_商铺首页_丁香通,https://sangshai.biomart.cn
+,https://nest.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,无锡耐思生命科技股份有限公司_商铺首页_丁香通,https://nest.biomart.cn
+,https://sirna.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州市锐博生物科技有限公司_商铺首页_丁香通,https://sirna.biomart.cn
+,https://szkcy.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,深圳市康初源有限公司 - 公司主页 - 丁香通,https://szkcy.biomart.cn
+,https://shfeng-edu.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海士锋生物科技有限公司_商铺首页_丁香通,https://shfeng-edu.biomart.cn
+,https://gelatins.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,江西江蓝纯生物试剂有限公司_商铺首页_丁香通,https://gelatins.biomart.cn
+,https://otwobiotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,深圳市豪地华拓生物科技有限公司_商铺首页_丁香通,https://otwobiotech.biomart.cn
+,https://safebio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海赛弗生物科技有限公司 - 公司主页 - 丁香通,https://safebio.biomart.cn
+,https://iphasebio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京汇智和源生物技术有限公司_商铺首页_丁香通,https://iphasebio.biomart.cn
+,https://njbianzhen.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,南京乐诊生物技术有限公司 - 公司主页 - 丁香通,https://njbianzhen.biomart.cn
+,https://thermofisher.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,赛默飞世尔科技_商铺首页_丁香通,https://thermofisher.biomart.cn
+,https://goybio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海谷研实业有限公司 - 公司主页 - 丁香通,https://goybio.biomart.cn
+,https://shybio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海钰博生物科技有限公司_商铺首页_丁香通,https://shybio.biomart.cn
+,https://chundubio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉纯度生物科技有限公司 - 公司主页 - 丁香通,https://chundubio.biomart.cn
+,https://caiyou.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海彩佑实业有限公司_商铺首页_丁香通,https://caiyou.biomart.cn
+,https://qmelisa-bio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海圻明生物科技有限公司_商铺首页_丁香通,https://qmelisa-bio.biomart.cn
+,https://cusabio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉华美生物工程有限公司CUSABIO®_商铺首页_丁香通,https://cusabio.biomart.cn
+,https://medtl.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,西安天隆科技有限公司_商铺首页_丁香通,https://medtl.biomart.cn
+,https://fuzesm.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海辅泽商贸有限公司_商铺首页_丁香通,https://fuzesm.biomart.cn
+,https://xysw.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海烜雅生物科技有限公司_商铺首页_丁香通,https://xysw.biomart.cn
+,https://kminsw.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海科敏生物科技有限公司_商铺首页_丁香通,https://kminsw.biomart.cn
+,https://nobleryder.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京诺博莱德科技有限公司_商铺首页_丁香通,https://nobleryder.biomart.cn
+,https://macs.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,德国美天旎生物技术有限公司_商铺首页_丁香通,https://macs.biomart.cn
+,https://shanghaijinpengyiqi.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海金鹏分析仪器有限公司_商铺首页_丁香通,https://shanghaijinpengyiqi.biomart.cn
+,https://whiga.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州威佳科技有限公司 - 公司主页 - 丁香通,https://whiga.biomart.cn
+,https://metaboprofile.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,麦特绘谱生物科技（上海）有限公司 _商铺首页_丁香通,https://metaboprofile.biomart.cn
+,https://shhzsw.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海沪震实业有限公司_商铺首页_丁香通,https://shhzsw.biomart.cn
+,https://perkinelmer2.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,珀金埃尔默医学诊断产品（上海）有限公司 - 公司主页 - 丁香通,https://perkinelmer2.biomart.cn
+,https://mybeckman.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,贝克曼库尔特商贸（中国）有限公司 - 公司主页 - 丁香通,https://mybeckman.biomart.cn
+,https://wako-chem.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,富士胶片和光（广州）贸易有限公司_商铺首页_丁香通,https://wako-chem.biomart.cn
+,https://igenebook.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉爱基百客生物科技有限公司 - 公司主页 - 丁香通,https://igenebook.biomart.cn
+,https://applitech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州市艾贝泰生物科技有限公司 - 公司主页 - 丁香通,https://applitech.biomart.cn
+,https://haling.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海哈灵生物科技有限公司_商铺首页_丁香通,https://haling.biomart.cn
+,https://gempharmatech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,江苏集萃药康生物科技股份有限公司_商铺首页_丁香通,https://gempharmatech.biomart.cn
+,https://cstchina.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,美国CST中国公司(丁香通商铺)_商铺首页_丁香通,https://cstchina.biomart.cn
+,https://sh-genmed.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海杰美基因医药科技有限公司 - 公司主页 - 丁香通,https://sh-genmed.biomart.cn
+,https://bio-platform.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海帛龙生物科技有限公司_商铺首页_丁香通,https://bio-platform.biomart.cn
+,https://qdchina.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,Quantum量子科学仪器贸易（北京）有限公司_商铺首页_丁香通,https://qdchina.biomart.cn
+,https://adooq.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,Adooq中国 - 公司主页 - 丁香通,https://adooq.biomart.cn
+,https://horibascentific.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,HORIBA Scientific_商铺首页_丁香通,https://horibascentific.biomart.cn
+,https://zhichengbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京致成生物医学科技有限公司_商铺首页_丁香通,https://zhichengbio.biomart.cn
+,https://boyaobio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海恒斐生物科技有限公司_商铺首页_丁香通,https://boyaobio.biomart.cn
+,https://transbioeng.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海研生实业有限公司 - 公司主页 - 丁香通,https://transbioeng.biomart.cn
+,https://nkygenereading.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州卿泽生物科技有限公司_商铺首页_丁香通,https://nkygenereading.biomart.cn
+,https://anypart.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海畅仪科学仪器有限公司_商铺首页_丁香通,https://anypart.biomart.cn
+,https://neobioscience.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,深圳欣博盛生物科技有限公司_商铺首页_丁香通,https://neobioscience.biomart.cn
+,https://bpi.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京华大蛋白质研发中心有限公司 - 公司主页 - 丁香通,https://bpi.biomart.cn
+,https://hznd17.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,杭州诺丁科学器材有限公司_商铺首页_丁香通,https://hznd17.biomart.cn
+,https://ybiotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海玉博生物科技有限公司 - 公司主页 - 丁香通,https://ybiotech.biomart.cn
+,https://lab.acrobiosystems.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安徽乐奥贝生物技术有限公司 - 公司主页 - 丁香通,https://lab.acrobiosystems.biomart.cn
+,https://cloud-seq.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海云序生物科技有限公司 - 公司主页 - 丁香通,https://cloud-seq.biomart.cn
+,https://biomiga.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,杭州倍沃医学科技有限公司_商铺首页_丁香通,https://biomiga.biomart.cn
+,https://chemstrong.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,深圳振强生物技术有限公司_商铺首页_丁香通,https://chemstrong.biomart.cn
+,https://biotech-pack.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京百泰派克生物科技有限公司_商铺首页_丁香通,https://biotech-pack.biomart.cn
+,https://beijingbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京保藏生物科技有限公司_商铺首页_丁香通,https://beijingbio.biomart.cn
+,https://bioeasy.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海伯易生物科技有限公司_商铺首页_丁香通,https://bioeasy.biomart.cn
+,https://chemfaces.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉天植生物技术有限公司 - 公司主页 - 丁香通,https://chemfaces.biomart.cn
+,https://biosciequip.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,香港生科仪有限公司 - 公司主页 - 丁香通,https://biosciequip.biomart.cn
+,https://cmbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海淳麦生物科技有限公司_商铺首页_丁香通,https://cmbio.biomart.cn
+,https://chamotbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,乔默生物技术（上海）有限公司_商铺首页_丁香通,https://chamotbio.biomart.cn
+,https://aidchina.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,德国艾迪（AID）公司 中国代表处_商铺首页_丁香通,https://aidchina.biomart.cn
+,https://biotechdx.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海代轩生物科技有限公司_商铺首页_丁香通,https://biotechdx.biomart.cn
+,https://denogen.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,德诺杰亿（北京）生物科技有限公司_商铺首页_丁香通,https://denogen.biomart.cn
+,https://bio-gene.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,香港伯齐科技有限公司 - 公司主页 - 丁香通,https://bio-gene.biomart.cn
+,https://editideas.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,辑思编译 Editideas 学术编辑 - 公司主页 - 丁香通,https://editideas.biomart.cn
+,https://chineway.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海昌为医药辅料技术有限公司 - 公司主页 - 丁香通,https://chineway.biomart.cn
+,https://bjzeping.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京泽平科技有限责任公司_商铺首页_丁香通,https://bjzeping.biomart.cn
+,https://byxbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,常州贝源鑫生物科技有限公司_商铺首页_丁香通,https://byxbio.biomart.cn
+,https://bhsy-e.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海邦景实业有限公司_商铺首页_丁香通,https://bhsy-e.biomart.cn
+,https://chuntest.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海莼试生物技术有限公司 - 公司主页 - 丁香通,https://chuntest.biomart.cn
+,https://boatman.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海冠东生物科技有限公司 - 公司主页 - 丁香通,https://boatman.biomart.cn
+,https://brand.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,普兰德（上海）贸易有限公司_商铺首页_丁香通,https://brand.biomart.cn
+,https://lab.bio-rad.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安徽乐奥贝生物技术有限公司 - 公司主页 - 丁香通,https://lab.bio-rad.biomart.cn
+,https://lab.bjbioway.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安徽乐奥贝生物技术有限公司 - 公司主页 - 丁香通,https://lab.bjbioway.biomart.cn
+,https://cytek.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,Cytek Biosciences - 公司主页 - 丁香通,https://cytek.biomart.cn
+,https://dlab.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,大龙兴创实验仪器（北京）有限公司 - 公司主页 - 丁香通,https://dlab.biomart.cn
+,https://bltlux.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州博鹭腾生物科技有限公司_商铺首页_丁香通,https://bltlux.biomart.cn
+,https://edited.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州佰骏超翔生物科技有限公司 - 公司主页 - 丁香通,https://edited.biomart.cn
+,https://lab.bjbiocreative.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安徽乐奥贝生物技术有限公司 - 公司主页 - 丁香通,https://lab.bjbiocreative.biomart.cn
+,https://lab.ebio-top.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安徽乐奥贝生物技术有限公司 - 公司主页 - 丁香通,https://lab.ebio-top.biomart.cn
+,https://njpeptide.comwww.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,南京肽业生物科技有限公司 - 公司主页 - 丁香通,https://njpeptide.comwww.biomart.cn
+,https://lab.cytek.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安徽乐奥贝生物技术有限公司 - 公司主页 - 丁香通,https://lab.cytek.biomart.cn
+,https://bjbiocreative.biomart.cnbjbiocreative.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京百奥创新科技有限公司_商铺首页_丁香通,https://bjbiocreative.biomart.cnbjbiocreative.biomart.cn
+,https://cloud-seq.com.cnwww.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海云序生物科技有限公司 - 公司主页 - 丁香通,https://cloud-seq.com.cnwww.biomart.cn
+,https://guangrui.biomart.cnguangrui.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海广锐生物科技有限公司_商铺首页_丁香通,https://guangrui.biomart.cnguangrui.biomart.cn
+,https://lab.sag2020.cn-bio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安徽乐奥贝生物技术有限公司 - 公司主页 - 丁香通,https://lab.sag2020.cn-bio.biomart.cn
+,https://shyuanmu.biomart.cnqybio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海远慕生物科技有限公司_商铺首页_丁香通,https://shyuanmu.biomart.cnqybio.biomart.cn
+,https://lab.mkxwq.com-bio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安徽乐奥贝生物技术有限公司 - 公司主页 - 丁香通,https://lab.mkxwq.com-bio.biomart.cn
+,https://www.biomart.cnnwww.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,丁香通-专业的科研采购信息和实验资讯平台,https://www.biomart.cnnwww.biomart.cn
+,https://www.biomart.cnwww.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,丁香通-专业的科研采购信息和实验资讯平台,https://www.biomart.cnwww.biomart.cn
+,https://inventbiotech.cominventbiotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,英文特生物技术（北京）有限公司_商铺首页_丁香通,https://inventbiotech.cominventbiotech.biomart.cn
+,https://berthold.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https," 伯托科技生物分析中国代表处 - 公司主页 - 丁香通",https://berthold.biomart.cn
+,https://alphaxbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,艾克发（北京）生物技术有限公司_商铺首页_丁香通,https://alphaxbio.biomart.cn
+,https://geneoptimal.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海晶诺生物科技有限公司_商铺首页_丁香通,https://geneoptimal.biomart.cn
+,https://51cells.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉赛奥斯生物科技有限公司_商铺首页_丁香通,https://51cells.biomart.cn
+,https://milesbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,妙顺（上海）生物科技有限公司_商铺首页_丁香通,https://milesbio.biomart.cn
+,https://editsprings.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,EditSprings_商铺首页_丁香通,https://editsprings.biomart.cn
+,https://affbiotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,常州市祥泰生物技术有限公司 - 公司主页 - 丁香通,https://affbiotech.biomart.cn
+,https://njpeptide.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,南京肽业生物科技有限公司 - 公司主页 - 丁香通,https://njpeptide.biomart.cn
+,https://aolushengwu.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海奥陆生物科技有限公司 - 公司主页 - 丁香通,https://aolushengwu.biomart.cn
+,https://aitesenctm.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,苏州艾特森制药设备有限公司_商铺首页_丁香通,https://aitesenctm.biomart.cn
+,https://morecell.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,深圳市默赛尔生物医学科技发展有限公司_商铺首页_丁香通,https://morecell.biomart.cn
+,https://genecreate2013.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉金开瑞生物工程有限公司_商铺首页_丁香通,https://genecreate2013.biomart.cn
+,https://tautobiotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海同田生物技术股份有限公司_商铺首页_丁香通,https://tautobiotech.biomart.cn
+,https://alit.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,艾力特生命科学(上海)有限公司_商铺首页_丁香通,https://alit.biomart.cn
+,https://yanhui.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海研卉生物科技有限公司_商铺首页_丁香通,https://yanhui.biomart.cn
+,https://lab.myhalic.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安徽乐奥贝生物技术有限公司 - 公司主页 - 丁香通,https://lab.myhalic.biomart.cn
+,https://sartorius.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,德国赛多利斯集团_商铺首页_丁香通,https://sartorius.biomart.cn
+,https://liankebio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,杭州联科生物技术股份有限公司_商铺首页_丁香通,https://liankebio.biomart.cn
+,https://srstar.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海宇北医疗器械有限公司_商铺首页_丁香通,https://srstar.biomart.cn
+,https://sbsbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京赛百盛基因技术有限公司_商铺首页_丁香通,https://sbsbio.biomart.cn
+,https://venvars.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广东文华氏生物科技有限公司_商铺首页_丁香通,https://venvars.biomart.cn
+,https://xpbiomed.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海逍鹏生物科技有限公司_商铺首页_丁香通,https://xpbiomed.biomart.cn
+,https://hzstswkj.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,珠海舒桐医疗科技有限公司_商铺首页_丁香通,https://hzstswkj.biomart.cn
+,https://jacksonimmuno.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,Jackson ImmunoResearch Laboratories Inc. - 公司主页 - 丁香通,https://jacksonimmuno.biomart.cn
+,https://bio-rad.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,伯乐生命医学产品（上海）有限公司 Bio-Rad Laboratories_商铺首页_丁香通,https://bio-rad.biomart.cn
+,https://hcrm.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,长沙健海思远科技有限公司_商铺首页_丁香通,https://hcrm.biomart.cn
+,https://qiyibio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,齐一生物科技（上海）有限公司_商铺首页_丁香通,https://qiyibio.biomart.cn
+,https://lab.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安徽乐奥贝生物技术有限公司 - 公司主页 - 丁香通,https://lab.biomart.cn
+,https://xs-bio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京祥生兴业科技有限公司_商铺首页_丁香通,https://xs-bio.biomart.cn
+,https://viewpoint.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,ViewPoint（中国）_商铺首页_丁香通,https://viewpoint.biomart.cn
+,https://huanyu.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京寰宇科创生物科技发展有限公司 - 公司主页 - 丁香通,https://huanyu.biomart.cn
+,https://gbo.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,格瑞纳生物科技（上海）有限公司_商铺首页_丁香通,https://gbo.biomart.cn
+,https://sbc.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海伯豪生物技术有限公司_商铺首页_丁香通,https://sbc.biomart.cn
+,https://boster.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉博士德生物工程有限公司_商铺首页_丁香通,https://boster.biomart.cn
+,https://avt.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,艾伟拓（上海）医药科技有限公司_商铺首页_丁香通,https://avt.biomart.cn
+,https://coleparmer.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,科尔帕默仪器（上海）有限公司_商铺首页_丁香通,https://coleparmer.biomart.cn
+,https://bjbiocreative.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京百奥创新科技有限公司_商铺首页_丁香通,https://bjbiocreative.biomart.cn
+,https://agrisera.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,Agrisera AB_商铺首页_丁香通,https://agrisera.biomart.cn
+,https://mcellbank.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海名劲生物科技有限公司_商铺首页_丁香通,https://mcellbank.biomart.cn
+,https://genecopoeia.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,美国GeneCopoeia_商铺首页_丁香通,https://genecopoeia.biomart.cn
+,https://millipore.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,默克生命科学_商铺首页_丁香通,https://millipore.biomart.cn
+,https://newhelix.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,纽赫生物科技（上海）有限公司 - 公司主页 - 丁香通,https://newhelix.biomart.cn
+,https://wobiocom.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,南京伟沃生物科技有限公司_商铺首页_丁香通,https://wobiocom.biomart.cn
+,https://wshtbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海万生昊天生物技术有限公司_商铺首页_丁香通,https://wshtbio.biomart.cn
+,https://suntrine.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,泰州鑫联诚润生物技术有限公司_商铺首页_丁香通,https://suntrine.biomart.cn
+,https://raybiotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州瑞博奥生物科技有限公司_商铺首页_丁香通,https://raybiotech.biomart.cn
+,https://keyuelab.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京科月华诚科技有限公司 - 公司主页 - 丁香通,https://keyuelab.biomart.cn
+,https://bc-bio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,体必康生物科技（广东）股份有限公司 - 公司主页 - 丁香通,https://bc-bio.biomart.cn
+,https://promega.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,普洛麦格（北京）生物技术有限公司_商铺首页_丁香通,https://promega.biomart.cn
+,https://mubio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,青木生物技术（武汉）有限公司_商铺首页_丁香通,https://mubio.biomart.cn
+,https://yihaowan.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,研载生物科技（上海）有限公司_商铺首页_丁香通,https://yihaowan.biomart.cn
+,https://lipidall.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,常州中科脂典生物技术有限责任公司_商铺首页_丁香通,https://lipidall.biomart.cn
+,https://huayueyang.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京华越洋生物科技有限公司 - 公司主页 - 丁香通,https://huayueyang.biomart.cn
+,https://sinoinstrument.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,东南科仪_商铺首页_丁香通,https://sinoinstrument.biomart.cn
+,https://researchdiet.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京博泰宏达生物技术有限公司 - 公司主页 - 丁香通,https://researchdiet.biomart.cn
+,https://chunfeng.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,西安淳风生物科技有限公司_商铺首页_丁香通,https://chunfeng.biomart.cn
+,c.biomart.cn,80,biomart.cn,CN,"China Mobile Communications Group Co., Ltd.",106.75.48.135,http,,http://c.biomart.cn
+,https://c.biomart.cn,443,biomart.cn,CN,"China Mobile Communications Group Co., Ltd.",106.75.48.135,https,,https://c.biomart.cn
+,https://herbpurify.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,成都瑞芬思生物科技有限公司 - 公司主页 - 丁香通,https://herbpurify.biomart.cn
+,https://cytiva.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,Cytiva（思拓凡）_商铺首页_丁香通,https://cytiva.biomart.cn
+,https://ats.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,ATS工业系统有限公司_商铺首页_丁香通,https://ats.biomart.cn
+,https://books.www.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,丁香园官方店 - 公司主页 - 丁香通,https://books.www.biomart.cn
+,https://lab.neobioscience.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安徽乐奥贝生物技术有限公司 - 公司主页 - 丁香通,https://lab.neobioscience.biomart.cn
+,https://lab.sartorius.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安徽乐奥贝生物技术有限公司 - 公司主页 - 丁香通,https://lab.sartorius.biomart.cn
+,https://lab.gbo.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,安徽乐奥贝生物技术有限公司 - 公司主页 - 丁香通,https://lab.gbo.biomart.cn
+,https://sharebio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海圣尔生物科技有限公司_商铺首页_丁香通,https://sharebio.biomart.cn
+,https://sony.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,索尼生命科学中国_商铺首页_丁香通,https://sony.biomart.cn
+,https://univ.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海优宁维生物科技股份有限公司_商铺首页_丁香通,https://univ.biomart.cn
+,https://activemotif.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海艾跃（Active Motif）生物科技有限公司_商铺首页_丁香通,https://activemotif.biomart.cn
+,https://tiangen.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,天根生化科技（北京）有限公司_商铺首页_丁香通,https://tiangen.biomart.cn
+,https://yuanyebio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海源叶生物科技有限公司_商铺首页_丁香通,https://yuanyebio.biomart.cn
+,https://raisedragon.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京龙迈达斯科技开发有限公司_商铺首页_丁香通,https://raisedragon.biomart.cn
+,https://genelb.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,晶莱生物_商铺首页_丁香通,https://genelb.biomart.cn
+,https://fhsci.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,香港友诚生物科技有限公司_商铺首页_丁香通,https://fhsci.biomart.cn
+,https://bioteke.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,无锡百泰克生物技术有限公司_商铺首页_丁香通,https://bioteke.biomart.cn
+,https://thinkfar.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,武汉科昊佳生物科技有限公司 - 公司主页 - 丁香通,https://thinkfar.biomart.cn
+,https://qihengxing.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京启衡星生物科技有限公司_商铺首页_丁香通,https://qihengxing.biomart.cn
+,https://eppendorf.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,Eppendorf 艾本德中国有限公司_商铺首页_丁香通,https://eppendorf.biomart.cn
+,https://xinsaimei.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,苏州新赛美生物科技有限公司 - 公司主页 - 丁香通,https://xinsaimei.biomart.cn
+,https://kosterscience.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州科适特科学仪器有限公司_商铺首页_丁香通,https://kosterscience.biomart.cn
+,https://jzyzysw.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,焦作云之羽生物科技有限公司 - 公司主页 - 丁香通,https://jzyzysw.biomart.cn
+,https://signalwayantibody.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,南京莱富赛生物科技有限公司_商铺首页_丁香通,https://signalwayantibody.biomart.cn
+,https://jsxtsw.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,江苏省协同医药生物工程有限公司_商铺首页_丁香通,https://jsxtsw.biomart.cn
+,https://mdlbiotech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京百奥思科生物医学技术有限公司_商铺首页_丁香通,https://mdlbiotech.biomart.cn
+,https://labsoeasy.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海百赛生物技术股份有限公司_商铺首页_丁香通,https://labsoeasy.biomart.cn
+,https://kw689.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,南京卡尔文生物科技有限公司 - 公司主页 - 丁香通,https://kw689.biomart.cn
+,https://sicaenbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京希凯恩生物科技有限公司_商铺首页_丁香通,https://sicaenbio.biomart.cn
+,https://rwdlifescience.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,深圳市瑞沃德生命科技有限公司_商铺首页_丁香通,https://rwdlifescience.biomart.cn
+,https://jno.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州吉妮欧生物科技有限公司_商铺首页_丁香通,https://jno.biomart.cn
+,https://ice.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京爱思益普生物科技股份有限公司 - 公司主页 - 丁香通,https://ice.biomart.cn
+,https://fanketech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海延慕实业有限公司_商铺首页_丁香通,https://fanketech.biomart.cn
+,https://cellcook.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,广州赛库生物技术有限公司_商铺首页_丁香通,https://cellcook.biomart.cn
+,https://yuhengfeng.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,北京裕恒丰科技有限公司_商铺首页_丁香通,https://yuhengfeng.biomart.cn
+,https://jmmedical.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海聚慕医疗器械有限公司 - 公司主页 - 丁香通,https://jmmedical.biomart.cn
+,https://hexubio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海和序生物科技有限公司_商铺首页_丁香通,https://hexubio.biomart.cn
+,https://baomanbio.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海宝曼生物科技有限公司 - 公司主页 - 丁香通,https://baomanbio.biomart.cn
+,https://tekontech.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海典奥生物科技有限公司_商铺首页_丁香通,https://tekontech.biomart.cn
+,https://shjingk.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,上海晶抗生物工程有限公司 _商铺首页_丁香通,https://shjingk.biomart.cn
+,galeria.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://galeria.biomart.cn
+,www.monitor.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.monitor.biomart.cn
+,www.bugs.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.bugs.biomart.cn
+,alex.users.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://alex.users.biomart.cn
+,search.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://search.biomart.cn
+,start.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://start.biomart.cn
+,pl.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://pl.biomart.cn
+,sms.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://sms.biomart.cn
+,mba.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://mba.biomart.cn
+,se.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://se.biomart.cn
+,acc.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://acc.biomart.cn
+,education.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://education.biomart.cn
+,help.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://help.biomart.cn
+,bugs.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://bugs.biomart.cn
+,team.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://team.biomart.cn
+,pt.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://pt.biomart.cn
+,soft.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://soft.biomart.cn
+,static.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://static.biomart.cn
+,www.green.biomart.cn:443,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.green.biomart.cn:443
+,www.lab.biomart.cn:443,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.lab.biomart.cn:443
+,www.plus.biomart.cn:443,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.plus.biomart.cn:443
+,https://www.acc.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://www.acc.biomart.cn
+,https://autoconfig.email.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://autoconfig.email.biomart.cn
+,https://www.pt.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://www.pt.biomart.cn
+,www.journal.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.journal.biomart.cn
+,www.betterday.users.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.betterday.users.biomart.cn
+,www.demo2.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.demo2.biomart.cn
+,https://www.bugs.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://www.bugs.biomart.cn
+,www.acc.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.acc.biomart.cn
+,www.bugs.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.bugs.biomart.cn
+,www.pt.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.pt.biomart.cn
+,https://www.staff.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://www.staff.biomart.cn
+,autoconfig.email.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://autoconfig.email.biomart.cn
+,https://www.betterday.users.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://www.betterday.users.biomart.cn
+,https://www.demo2.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://www.demo2.biomart.cn
+,www.staff.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.staff.biomart.cn
+,https://www.journal.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://www.journal.biomart.cn
+,www.alex.users.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.alex.users.biomart.cn
+,lab.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://lab.biomart.cn
+,www.galeria.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.galeria.biomart.cn
+,www.demo2.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.demo2.biomart.cn
+,users.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://users.biomart.cn
+,betterday.users.biomart.cn:443,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://betterday.users.biomart.cn:443
+,autodiscover.static.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://autodiscover.static.biomart.cn
+,green.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://green.biomart.cn
+,www.plus.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.plus.biomart.cn
+,autodiscover.search.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://autodiscover.search.biomart.cn
+,gobbit.users.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://gobbit.users.biomart.cn
+,webdisk.help.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://webdisk.help.biomart.cn
+,www.tw.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.tw.biomart.cn
+,www.soft.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.soft.biomart.cn
+,www.acc.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.acc.biomart.cn
+,webdisk.members.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://webdisk.members.biomart.cn
+,www.team.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.team.biomart.cn
+,www.staff.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.staff.biomart.cn
+,b.ns.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://b.ns.biomart.cn
+,g.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://g.biomart.cn
+,dhcp.zmml.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://dhcp.zmml.biomart.cn
+,https://b.ns.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://b.ns.biomart.cn
+,https://www.start.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://www.start.biomart.cn
+,www.start.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.start.biomart.cn
+,b.ns.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://b.ns.biomart.cn
+,https://dhcp.zmml.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://dhcp.zmml.biomart.cn
+,webdisk.members.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://webdisk.members.biomart.cn
+,https://webdisk.members.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://webdisk.members.biomart.cn
+,autoconfig.sms.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://autoconfig.sms.biomart.cn
+,www.green.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.green.biomart.cn
+,www.gobbit.users.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.gobbit.users.biomart.cn
+,autoconfig.sms.biomart.cn:443,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://autoconfig.sms.biomart.cn:443
+,hkps.pool.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://hkps.pool.biomart.cn
+,www.lab.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.lab.biomart.cn
+,www.team.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.team.biomart.cn
+,www.plus.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.plus.biomart.cn
+,webdisk.sandbox.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://webdisk.sandbox.biomart.cn
+,www.tw.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.tw.biomart.cn
+,autodiscover.search.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://autodiscover.search.biomart.cn
+,www.galeria.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.galeria.biomart.cn
+,www.mba.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.mba.biomart.cn
+,www.pl.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.pl.biomart.cn
+,www.docs.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.docs.biomart.cn
+,autodiscover.static.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://autodiscover.static.biomart.cn
+,www.education.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.education.biomart.cn
+,webdisk.help.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://webdisk.help.biomart.cn
+,www.soft.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.soft.biomart.cn
+,https://autodiscover.email.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://autodiscover.email.biomart.cn
+,https://www.alex.users.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://www.alex.users.biomart.cn
+,https://www.soft.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://www.soft.biomart.cn
+,www.monitor.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.monitor.biomart.cn
+,autodiscover.email.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://autodiscover.email.biomart.cn
+,https://www.monitor.biomart.cn,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,https,,https://www.monitor.biomart.cn
+,www.alex.users.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.alex.users.biomart.cn
+,www.mobi.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.mobi.biomart.cn
+,www.g.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.g.biomart.cn
+,www.lab.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.lab.biomart.cn
+,www.green.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.green.biomart.cn
+,www.gobbit.users.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://www.gobbit.users.biomart.cn
+,hkps.pool.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,302 Found,http://hkps.pool.biomart.cn
+,www.g.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.g.biomart.cn
+,www.mobi.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.mobi.biomart.cn
+,www.mobi.biomart.cn:443,443,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.mobi.biomart.cn:443
+,www.se.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://www.se.biomart.cn
+,betterday.users.biomart.cn,80,biomart.cn,CN,Shenzhen Tencent Computer Systems Company Limited,81.69.153.67,http,,http://betterday.users.biomart.cn

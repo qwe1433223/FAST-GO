@@ -1,0 +1,6 @@
+*.biomart.cn
+*.dxy.cn
+*.jobmd.cnd
+dxy.com
+ask.dxy.cm
+mama.dxy.com

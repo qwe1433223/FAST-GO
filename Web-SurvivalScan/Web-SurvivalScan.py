@@ -1,0 +1,298 @@
+import _thread
+from enum import Enum
+import os
+import time
+
+import Generate_Report
+import threading
+import requests, sys, random
+from tqdm import tqdm
+from typing import Optional, Tuple
+from termcolor import cprint
+from requests.compat import json
+from time import sleep
+import requests.packages.urllib3
+requests.packages.urllib3.disable_warnings()
+
+# 获取命令行参数列表（第一个参数是脚本的名称）
+args = sys.argv
+path = args[1]    
+
+# 获取文件名（去除扩展名）
+file_name = os.path.splitext(os.path.basename(path))[0]
+# 进一步分割文件名
+name_parts = file_name.split('-')  # 以 - 为分隔符
+# 或者使用下面的语句以多个分隔符进行分割
+# name_parts = re.split(r'[-_]', file_name)
+
+statu_200 =0
+statu_403 =0
+statu_4XX =0
+statu_OVER =0
+
+# 项目名称
+Project_name = name_parts[-1]  # 获取最后一个部分
+if not os.path.exists(Project_name):
+    # 如果不存在，则创建文件夹
+    os.makedirs(Project_name)
+
+
+#当前脚本所在路径
+current_script_directory = os.path.dirname(os.path.abspath(__file__))
+
+class EServival(Enum):
+    REJECT = -1
+    SURVIVE = 1
+    S_301 = 301
+    S_302 = 302
+    S_403 = 403
+    DIED = 0
+
+reportData = []
+
+ua = [
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36,Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.93 Safari/537.36",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36,Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.17 Safari/537.36",
+      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36,Mozilla/5.0 (X11; NetBSD) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/27.0.1453.116 Safari/537.36",
+      "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/44.0.2403.155 Safari/537.36",
+      "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.20.25 (KHTML, like Gecko) Version/5.0.4 Safari/533.20.27",
+      "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:23.0) Gecko/20130406 Firefox/23.0",
+      "Opera/9.80 (Windows NT 5.1; U; zh-sg) Presto/2.9.181 Version/12.00"]
+
+
+
+def file_init():
+    # 新建正常目标导出TXT
+    f1 = open(Project_name+"/200.txt", "wb+")
+    f1.close()
+    # 新建其他报错导出TXT
+    f2 = open(Project_name+"/4XX.txt", "wb+")
+    # 新建403导出TXT
+    f2 = open(Project_name+"/403.txt", "wb+")
+    # 新建30X导出TXT
+    f2 = open(Project_name+"/30X.txt", "wb+")
+
+    if not os.path.exists(current_script_directory+"/.data"):
+        os.mkdir(current_script_directory+"/.data")
+    report = open(current_script_directory+"/.data/report.json","w")
+    report.close()
+
+def scanLogger(result:Tuple[EServival,Optional[int],str,int]):
+    global statu_OVER
+    (status,code,url,length) = result
+    if status == EServival.SURVIVE:
+        cprint(f"[+] 状态码为: {code} 存活URL为: {url} 页面长度为: {length} ","green")
+    if status == EServival.S_403 :
+        cprint(f"[-] 状态码为: {code} 无法访问URL为: {url} ","yellow")
+    if status == EServival.S_301 or status == EServival.S_302 :
+        cprint(f"[-] 状态码为: {code} 无法访问URL为: {url} ","yellow")
+    if status == EServival.DIED :
+        cprint(f"[-] 状态码为: {code} 无法访问URL为: {url} ","red")
+    if status == EServival.REJECT :
+        cprint(f"[-] URL为 {url} 的目标积极拒绝请求，予以跳过！", "red")
+    
+    fileName = "4XX.txt"
+    if(status == EServival.SURVIVE):
+        fileName = "200.txt"
+    elif(status == EServival.S_403):
+        fileName = "403.txt"
+    elif(status == EServival.S_301 or status == EServival.S_302):
+        fileName = "30X.txt"
+    elif(status == EServival.DIED):
+        fileName = "4XX.txt"
+    if(status == EServival.SURVIVE or status == EServival.DIED or status == EServival.S_403 or status == EServival.S_301 or status == EServival.S_302 or status == EServival.REJECT):
+        with open(file=Project_name+"/"+fileName, mode="a") as file4:
+            if status == EServival.SURVIVE or status == EServival.S_403:
+                file4.write(f"{url}\n")
+                statu_OVER += 1 
+            else:
+                file4.write(f"[{code}]  {url}\n")
+                statu_OVER += 1                                 
+    collectionReport(result)
+
+def survive(url:str):
+    try:
+        proxies = {
+            "http": "http://43.139.183.223:10820/"
+        }
+
+        paths = [
+            "/%2f/",
+            "/./",
+            "/",
+            "/*/",
+            "/%00/", 
+            "/0x00/", 
+            "//", 
+            ";",
+            ",",
+            "％",
+            "!", 
+            "?", 
+            "[]",
+            "/**/",
+            "/%2e/",
+            "/%2a/",
+            "/%09",
+            "/%20",
+            "/%0a",
+            "/%a0" 
+        ]
+
+        headers = {
+            "User-Agent": random.choice(ua),
+            "X-Forwarded-For": "127.0.0.1",
+            "X-Forwarded": "127.0.0.1",
+            "Forwarded-For": "127.0.0.1",
+            "Forwarded": "127.0.0.1",
+            "X-Requested-With": "127.0.0.1",
+            "X-Forwarded-Proto": "127.0.0.1",
+            "X-Forwarded-Host": "127.0.0.1",
+            "X-remote-IP": "127.0.0.1",
+            "X-remote-addr": "127.0.0.1",
+            "True-Client-IP": "127.0.0.1",
+            "X-Client-IP": "127.0.0.1",
+            "Client-IP": "127.0.0.1",
+            "X-Real-IP": "127.0.0.1",
+            "Ali-CDN-Real-IP": "127.0.0.1",
+            "Cdn-Src-Ip": "127.0.0.1",
+            "Cdn-Real-Ip": "127.0.0.1",
+            "CF-Connecting-IP": "127.0.0.1",
+            "X-Cluster-Client-IP": "127.0.0.1",
+            "WL-Proxy-Client-IP": "127.0.0.1",
+            "Proxy-Client-IP": "127.0.0.1",
+            "Fastly-Client-Ip": "127.0.0.1",
+            "True-Client-Ip": "127.0.0.1",
+            "X-Originating-IP": "127.0.0.1",
+            "X-Host": "127.0.0.1",
+            "X-Custom-IP-Authorization": "127.0.0.1",
+            "X-Original-URL": "/%2f/%20",
+            "X-Rewrite-URL": "/%2f/%20",
+            "Referer":"/%2f/%20"
+        }
+        requests.packages.urllib3.disable_warnings()
+        r = requests.get(url=url, headers=headers, timeout=6, verify=False)  # 设置超时6秒
+        time.sleep(0.1)
+    except Exception as e:
+        cprint("[-] URL为 " + url + " 的目标积极拒绝请求，予以跳过！", "magenta")
+        cprint(str(e))
+        return (EServival.REJECT,-1,url,0)
+    if r.status_code == 200:
+        return (EServival.SURVIVE,r.status_code,url,len(r.content))
+    elif r.status_code == 403:
+        for path in paths:
+            r = requests.get(url=url+path, headers=headers, timeout=6, verify=False)# ,proxies=proxies)
+            sleep(0.3)
+            if r.status_code == 200:
+                print("ByPass成功    "+url+path)
+                sleep(5)
+                return (EServival.SURVIVE,r.status_code,url+path,len(r.content))
+            else:
+                return (EServival.S_403,r.status_code,url,len(r.content))
+    elif r.status_code == 302 or r.status_code == 301:
+        return (EServival.S_302,r.status_code,url,len(r.content)) 
+    else:     
+        for path in paths:
+            r = requests.get(url=url+path, headers=headers, timeout=6, verify=False)# ,proxies=proxies)
+            sleep(0.3)
+            if r.status_code == 200:
+                return (EServival.SURVIVE,r.status_code,url+path,len(r.content))
+            else:
+                  r = requests.get(url=url, headers=headers, timeout=6, verify=False)# ,proxies=proxies)
+                  if r.status_code == 200:
+                      return (EServival.SURVIVE,r.status_code,url+path,len(r.content))
+                  else:
+                      print(r.status_code)
+                      return (EServival.DIED,r.status_code,url,0)
+
+def collectionReport(data):
+    global reportData
+    (status,statusCode,url,length) = data
+    state = ""
+    if status == EServival.DIED:
+        state = "deaed"
+    elif status == EServival.REJECT:
+        state = "reject"
+    elif status == EServival.SURVIVE:
+        state = "servival"
+    reportData.append({
+        "url":url,
+        "status":state,
+        "statusCode":statusCode
+    })
+
+def dumpReport():
+    with open(current_script_directory+"\\.data\\report.json",encoding="utf-8",mode="w") as file:
+        file.write(json.dumps(reportData))
+
+def getTask(filename=""):
+    if(filename != ""):
+        try:
+            with open(file=filename,mode="r") as file:
+                for url in file:
+                    yield url.strip()
+        except Exception:
+            with open(file=filename,mode="r",encoding='utf-8') as file:
+                for url in file:
+                    yield url.strip()
+
+def end():
+    global statu_OVER
+    count_200 = len(open(Project_name+"/200.txt", 'r').readlines())
+    if count_200 >= 1:
+        cprint(f"[+][+][+] 存活目标，已经导出至 200.txt ，共 {count_200} 行记录","white")
+    count_4XX = len(open(Project_name+"/4XX.txt", 'r').readlines())
+    if count_4XX >= 1:
+        cprint(f"[+][-][-] 错误目标，已经导出至 4XX.txt ，共{count_4XX}行记录","white")
+    count_403 = len(open(Project_name+"/403.txt", 'r').readlines())
+    if count_403 >= 1:
+        cprint(f"[+][-][-] 403目标，已经导出至 403.txt ，共{count_403}行记录","white")
+    cprint(f"[+][+][+] 共{count_403 + count_4XX + count_200}行记录[+][+][+]\n","white")
+
+def main(path):
+    count = 1
+    file_init()
+    # 获取目标TXT名称
+    txt_name = str(path)
+    
+    cprint("================开始读取目标TXT并批量测试站点存活================", "cyan")
+    # 读取目标TXT
+    thread_limit = 2  # 限制同时运行的线程数量
+    thread_pool = []
+
+    def scan_and_log(url):
+        result = survive(url)
+        scanLogger(result)
+
+    for url in getTask(txt_name):
+        if (':443' in url) and ('://' not in url):
+            url = url.replace(":443", "")
+            url = f"https://{url}"
+        if ('://' not in url):
+            url = f"http://{url}"
+        try:
+            if len(thread_pool) >= thread_limit:
+                # 当线程池满时，等待一个线程完成后再启动新线程
+                thread_pool[0].join()
+                thread_pool.pop(0)
+
+            thread = threading.Thread(target=scan_and_log, args=(url,))
+            thread_pool.append(thread)
+            thread.start()
+            count = count + 1
+        except KeyboardInterrupt:
+            print("Ctrl + C 手动终止了进程")
+            sys.exit()
+
+    # 等待所有线程完成
+    for thread in thread_pool:
+        thread.join()
+
+    dumpReport()
+    end()
+    cprint(f"[+][+][-] 共测试了{count}个目标", "white")
+    Generate_Report.generaterReport(project=path.split("\\")[0])
+    sys.exit()
+
+if __name__ == '__main__':
+    main(path)

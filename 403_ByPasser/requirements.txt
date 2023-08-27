@@ -1,0 +1,6 @@
+requests
+argparse
+validators
+tldextract
+colorama
+pyfiglet

@@ -1,0 +1,4 @@
+{"name":"www.dxy.cm.","type":"A","class":"IN","status":"NOERROR","data":{"answers":[{"ttl":600,"type":"A","class":"IN","name":"www.dxy.cm.","data":"185.53.177.52"}]},"resolver":"64.6.64.6:53"}
+{"name":"ww25.dxy.cm.","type":"A","class":"IN","status":"NOERROR","data":{"answers":[{"ttl":600,"type":"A","class":"IN","name":"ww25.dxy.cm.","data":"185.53.177.52"}]},"resolver":"149.112.112.112:53"}
+{"name":"hostmaster.dxy.cm.","type":"A","class":"IN","status":"NOERROR","data":{"answers":[{"ttl":600,"type":"A","class":"IN","name":"hostmaster.dxy.cm.","data":"127.0.0.4"}]},"resolver":"176.103.130.130:53"}
+{"name":"dxy.cm.","type":"A","class":"IN","status":"NOERROR","data":{"answers":[{"ttl":600,"type":"A","class":"IN","name":"dxy.cm.","data":"104.247.81.52"}]},"resolver":"4.2.2.3:53"}
