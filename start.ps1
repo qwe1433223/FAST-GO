@@ -92,9 +92,9 @@ python $资产去重 "-p" $project "-c" $IS_CONTINUE
 
 
 #复制结果
-$content = Get-Content "$project/单独开发资产.txt"
-$path = "E:/WORK/SRC/项目/$project/target/urls.txt"
-$content | Set-Content -Path $path
+#$content = Get-Content "$project/单独开发资产.txt"
+#$path = "E:/WORK/SRC/项目/$project/target/urls.txt"
+#$content | Set-Content -Path $path
 
 #是否进行403资产绕过探测
 segmentation("403 ByPass")
